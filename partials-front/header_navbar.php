@@ -40,7 +40,14 @@
                 <span>Thống kê</span>
             </a>
         </div>
-     
+        <div class="list-item">
+            <a href="../customer/group.php" class="list__item-link">
+                <span>
+                    <i class="fa-brands fa-blackberry" style="font-size: 20px;opacity: 0.6;font-weight: 300;"></i>
+                </span>
+                <span>Nhóm chi tiêu</span>
+            </a>
+        </div>
     </div>
     <div class="list-item">
         <a href="../../process/logout.php" class="list__item-link">

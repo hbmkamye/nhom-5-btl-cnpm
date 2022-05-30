@@ -63,7 +63,6 @@ $lastmonth4 = date("d/m/Y", mktime(0, 0, 0, date("m") - 1, 0, date("Y")));
                         <li class="nav-item">
                             <a class="nav-link nav-link1 jsthistmonth" id="<?php echo $thismonthVal ?>" href="#">Tháng này</a>
                         </li>
-                        
                     </ul>
                 </div>
             </div>
